@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGPS", "TestGPS\TestGPS.csproj", "{C720FD21-44B5-4697-A8A6-970CA906089E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGPS.Android", "Android\TestGPS.Android.csproj", "{732FB308-4718-486A-870E-4D4DAACBA6FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{732FB308-4718-486A-870E-4D4DAACBA6FF}.Ad-Hoc|iPhone.ActiveCfg = Debug|Any CPU
+		{732FB308-4718-486A-870E-4D4DAACBA6FF}.Ad-Hoc|iPhone.Build.0 = Debug|Any CPU
+		{732FB308-4718-486A-870E-4D4DAACBA6FF}.AppStore|iPhone.ActiveCfg = Debug|Any CPU
+		{732FB308-4718-486A-870E-4D4DAACBA6FF}.AppStore|iPhone.Build.0 = Debug|Any CPU
+		{732FB308-4718-486A-870E-4D4DAACBA6FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{732FB308-4718-486A-870E-4D4DAACBA6FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{732FB308-4718-486A-870E-4D4DAACBA6FF}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{732FB308-4718-486A-870E-4D4DAACBA6FF}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{732FB308-4718-486A-870E-4D4DAACBA6FF}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{732FB308-4718-486A-870E-4D4DAACBA6FF}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{732FB308-4718-486A-870E-4D4DAACBA6FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{732FB308-4718-486A-870E-4D4DAACBA6FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{732FB308-4718-486A-870E-4D4DAACBA6FF}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{732FB308-4718-486A-870E-4D4DAACBA6FF}.Release|iPhone.Build.0 = Release|Any CPU
+		{732FB308-4718-486A-870E-4D4DAACBA6FF}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{732FB308-4718-486A-870E-4D4DAACBA6FF}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{C720FD21-44B5-4697-A8A6-970CA906089E}.Ad-Hoc|iPhone.ActiveCfg = Debug|Any CPU
+		{C720FD21-44B5-4697-A8A6-970CA906089E}.Ad-Hoc|iPhone.Build.0 = Debug|Any CPU
+		{C720FD21-44B5-4697-A8A6-970CA906089E}.AppStore|iPhone.ActiveCfg = Debug|Any CPU
+		{C720FD21-44B5-4697-A8A6-970CA906089E}.AppStore|iPhone.Build.0 = Debug|Any CPU
+		{C720FD21-44B5-4697-A8A6-970CA906089E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C720FD21-44B5-4697-A8A6-970CA906089E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C720FD21-44B5-4697-A8A6-970CA906089E}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{C720FD21-44B5-4697-A8A6-970CA906089E}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{C720FD21-44B5-4697-A8A6-970CA906089E}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{C720FD21-44B5-4697-A8A6-970CA906089E}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{C720FD21-44B5-4697-A8A6-970CA906089E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C720FD21-44B5-4697-A8A6-970CA906089E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C720FD21-44B5-4697-A8A6-970CA906089E}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{C720FD21-44B5-4697-A8A6-970CA906089E}.Release|iPhone.Build.0 = Release|Any CPU
+		{C720FD21-44B5-4697-A8A6-970CA906089E}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{C720FD21-44B5-4697-A8A6-970CA906089E}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Android\TestGPS.Android.csproj
+	EndGlobalSection
+EndGlobal
